@@ -35,3 +35,18 @@ shell
 ```
     python boston.py
 ```
+
+Code Details
+
+The code consists of two main parts:
+
+    Traditional Linear Regression:
+        Loads the Boston Housing dataset from a CSV file.
+        Performs data preprocessing, including scaling using StandardScaler.
+        Splits the data into training and testing sets.
+        Fits a linear regression model to the training data and evaluates its performance using R-squared.
+
+    Neural Network with Keras:
+        Defines a neural network model using Keras with multiple layers.
+        Compiles the model using the Adam optimizer and mean squared error loss.
+        Trains the model on the training data and evaluates its performance using R-squared.
