@@ -33,5 +33,5 @@ Run the Python script:
 
 shell
 ```
-    python boston_housing_prediction.py
+    python boston.py
 ```
