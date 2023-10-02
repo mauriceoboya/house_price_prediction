@@ -19,4 +19,19 @@ You can install these libraries using `pip`:
 
 ```shell
 pip install tensorflow keras scikit-learn pandas matplotlib
+```
+## Usage
 
+    Clone this repository:
+
+    shell
+```
+git clone https://github.com/maurticeoboya/house_price_prediction.git
+cd house_price_prediction
+```
+Run the Python script:
+
+shell
+```
+    python boston_housing_prediction.py
+```
