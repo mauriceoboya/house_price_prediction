@@ -50,3 +50,14 @@ The code consists of two main parts:
         Defines a neural network model using Keras with multiple layers.
         Compiles the model using the Adam optimizer and mean squared error loss.
         Trains the model on the training data and evaluates its performance using R-squared.
+
+## Results
+    The script prints the R-squared score for both the linear regression model and the neural network, allowing you to compare their performance in predicting    Boston housing prices.
+
+## License
+    This project is licensed under the MIT License - see the LICENSE file for details.
+## Acknowledgments
+
+    Thanks to the contributors of the TensorFlow, Keras, and scikit-learn libraries for their excellent work.
+
+
